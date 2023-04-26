@@ -1,16 +1,15 @@
-# eu_sou_rico
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# App Eu Sou Rico 
+Imagem estática na tela.<br /> 
+Treinamento feito através do canal no YouTube Polimorfismo.<br /> 
+<br /> 
+Tópicos:<br /> 
+Criando um projeto em Flutter do zero.<br /> 
+Material Design. <br /> 
+MaterialApp.<br /> 
+Text.<br /> 
+Função main.<br /> 
+Scaffold.<br /> 
+AppBar.<br /> 
+Image.<br /> 
+Trabalhando com assets e com o arquivo pubspec.<br /> 
+Adicionar ícones nos aplicativos iOS e Android.<br /> 
