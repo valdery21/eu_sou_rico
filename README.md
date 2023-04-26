@@ -1,5 +1,5 @@
 # App Eu Sou Rico 
-Imagem estática na tela.<br /> 
+Exibir imagem na tela.<br /> 
 Treinamento feito através do canal no YouTube Polimorfismo.<br /> 
 <br /> 
 Tópicos:<br /> 
